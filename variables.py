@@ -21,6 +21,6 @@ __name__ = ""
 2 + 2
 "mina"
 
-
+# Statements are operations on a value
 # Example of Statement
 myname = "Mina"
