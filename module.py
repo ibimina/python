@@ -5,6 +5,12 @@ from enum import Enum
 import kansas
 
 print(pi)
+print(dir(rdm))
+
+
+for item in dir(rdm):
+    print(item)
+
 
 nessong = kansas.song
 print(nessong)
